@@ -15,3 +15,9 @@ Dataset: The dataset utilized in this project is sourced from Kaggle DataSet, pr
 Built With:
 - Power BI: Utilized for interactive data visualization, offering dynamic insights and exploration capabilities.
 - Python: Employed for data integration, serving as a modern ETL (Extract, Transform, Load) tool to handle diverse data formats effectively.
+
+The project outcome 
+
+![1](https://github.com/islem73/ETL-Python-MySQL-PowerBI/assets/119644033/46397f65-5302-46c5-a883-cad6f2de141b)
+![2](https://github.com/islem73/ETL-Python-MySQL-PowerBI/assets/119644033/fe68e2da-57c9-4d2b-a8d0-697a7661233d)
+
