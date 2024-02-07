@@ -1,3 +1,4 @@
+Business-Intelligence-project-with-Python-and-PowerBI
 
 This project aims to develop a data-driven BI system leveraging freely available data and incorporating heterogeneous sources for cross-analysis. This project encompasses various stages, including analysis, transformation, and aggregation, with careful consideration given to:
 
